@@ -1,6 +1,6 @@
 {
   "name": "update-node",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "update-node updates repositories to a new Node.js version.",
   "contributors": [
     {
